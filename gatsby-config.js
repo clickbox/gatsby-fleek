@@ -1,8 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby & Fleek`,
-    description: `Kick off your next, great Gatsby project with this default starter. This barebones starter ships with the main Gatsby configuration files you might need.`,
-    author: `@gatsbyjs`,
+    title: `Dislocate: `,
+    description: `to cause changes that upend the way something usually works`,
+    author: `@dislocate`,
+    eth: `dislocate.eth/`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
